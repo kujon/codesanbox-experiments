@@ -1,0 +1,14 @@
+{
+  "name": "reason-react",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/Index.re",
+  "dependencies": {
+    "react": "16.4.2",
+    "react-dom": "16.4.2",
+    "reason-react": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {}
+}
